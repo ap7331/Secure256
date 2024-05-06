@@ -53,3 +53,5 @@ This Python script implements a simple file encryptor/decryptor GUI application 
 - The Crypto library for providing encryption and decryption functionalities.
 - Tkinter library for the GUI interface.
 - psutil library for memory usage tracking.
+
+## ScreenShots
