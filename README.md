@@ -54,4 +54,5 @@ This Python script implements a simple file encryptor/decryptor GUI application 
 - Tkinter library for the GUI interface.
 - psutil library for memory usage tracking.
 
-## ScreenShots
+
+
