@@ -230,6 +230,8 @@ class FileEncryptorDecryptor:
     def derive_key(self, password):
         return SHA256.new(password.encode()).digest()
 
+
+
 if __name__ == "__main__":
     root = tk.Tk()
     app = FileEncryptorDecryptor(root)
